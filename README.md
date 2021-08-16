@@ -1,6 +1,13 @@
 # Horizon
 ### Intranet Django Project
 
-* Notes
-* Bookmarks
-* Knowledgebase
+Object types:
+
+* Note
+* Task
+* Bookmark
+* KB Entry
+
+Automation:
+
+* Droptos Actions
