@@ -1,13 +1,17 @@
 # Horizon
-### Intranet Django Project
 
-Object types:
+**Django Project**
 
-* Note
-* Task
-* Bookmark
-* KB Entry
+Notes, Projects, Tasks, Bookmarks, Knowledge base, etc.
 
-Automation:
+## horizon-droptos
 
-* Droptos Actions
+Система присваивания структурных позиций по условно-принятым сокращенным меткам в начале строки.
+
+### Examples
+
+"T": Task
+
+"BM": Bookmark
+
+"ED": Education
